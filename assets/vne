@@ -1,11 +1,11 @@
 # mongo | api
 get_data_on=api
 
-port=27017
-host=cluster0.6yqey.mongodb.net/robohorta?retryWrites=true&w=majority
-username=robohorta
-password=1a2JFqeNkBLvEXox
-database=robohorta
+port=
+host=
+username=
+password=
+database=
 
 # ## LAMBDA AND DYNAMODB ##
 api_url=https://1l3jndygak.execute-api.us-west-2.amazonaws.com
