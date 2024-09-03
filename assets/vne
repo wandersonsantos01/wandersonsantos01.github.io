@@ -14,7 +14,7 @@ api_events_uri=/events
 api_dashboard_uri=/dashboard
 
 # ## ROBOHORTA PROCESSES ##
-rh_url=http://sfh01.ddns.net
+rh_url=https://sfh01.ddns.net
 rh_port=5000
 rh_token=9803c6fbac2ace5b8fae073f275073e776e782bf
 rh_irrigate_uri=/irrigate
